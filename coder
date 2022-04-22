@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title> Résumé </title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        body {background-color: #eeaa6a8f;}
+        h1   {color: rgb(236, 10, 10) ;
+              font-family: verdana;
+              font-size: 250%;}
+        p  {color: rgb(5, 5, 5);
+              font-family: courier;
+              font-size: 170%;  
+          }
+          div  {color: rgba(0, 0, 0, 0.866);
+              font-family: 'Times New Roman', Times, serif;
+              font-size: 140%;  
+          }
+          h3  {color: rgb(16, 15, 15);
+              font-family: verdana;
+              font-size: 150%;  
+          }
+          h4  {color: rgb(31, 24, 24);
+              font-family: 'Times New Roman', Times, serif;
+              font-size: 150%;  
+          }
+      </style>
+  </head>
+
+  <body>
+    <div class="abc" style="text-align:center">
+    <h1>
+    CHÚC MỪNG SINH NHẬT
+    </h1>
+
+    <img src="https://scontent.fvii1-1.fna.fbcdn.net/v/t39.30808-1/270496402_976672853263255_2673877895301224361_n.jpg?stp=dst-jpg_p200x200&_nc_cat=110&ccb=1-5&_nc_sid=7206a8&_nc_ohc=Gy5bInKS-WwAX_EfQCk&_nc_ht=scontent.fvii1-1.fna&oh=00_AT83ctLGZsE_XnHrL6pYGx_05UC86QHDNHm0vaeqR5E74A&oe=6268040F"
+    <h2 style="text-align:center"><br>
+  
+    </h2>
+    <h3>
+      U OA U OA
+    <h3>
+    </div>
+  
+  <div> 
+    <h4> THÔNG TIN CÁ NHÂN </h4>
+    <ol>
+      <li>Họ và tên: Nguyễn Thị Ngọc Bảo</li>
+      <li>Ngày sinh: 22/04/2004</li>
+      <li>Lớp: 12T1 </li>
+      <li>Trường THPT Cửa Lò</li>
+      <li>Contact: 
+        <a href="https://www.facebook.com/profile.php?id=100027616472231">Facebook,</a>
+    </li>
+  </div>
+  </ol>
+</div>
+  <h4> MUÔN NGÀN LỜI CHÚC GỬI ĐẾN BẠN </h4>
+  <div>
+   Chúc bạn tuổi mới thành công rực rỡ, luôn vui vẻ, hạnh phúc, đậu nguyện vọng 1 nha
+  </div>
+  <div>
+    "Know how to listen and you will profit even from those who talk badly."
+  </div> 
+ 
+ 
+    
+  </div>
+  <span> 
+  
+  </span>
+  <span> </span>
+  </body>
+
+</html>
